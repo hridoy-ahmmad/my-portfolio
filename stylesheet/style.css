@@ -29,7 +29,7 @@
 }
 header{
     background-color: #f5fbf3;
-    height: 820px;
+    height:846px;
     background-image: url(../Images/developer.png), url(../Images/my-bg.png);
     background-repeat: no-repeat;
     background-position: left, bottom right;
@@ -108,9 +108,9 @@ nav ul li a{
     background-color: #d5ffca;
 }
 .banner-img img{
-    height: 680px;
+    height: 700px;
     width: 370px;
-    margin-top: 20px;
+    margin-top: 26px;
     
 }
 
